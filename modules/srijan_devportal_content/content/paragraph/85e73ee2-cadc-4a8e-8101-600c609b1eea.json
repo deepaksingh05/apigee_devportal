@@ -1,0 +1,95 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/product_details_main"
+        }
+    },
+    "id": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "85e73ee2-cadc-4a8e-8101-600c609b1eea"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 2
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "product_details_main"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-27T11:27:40+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "3"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_product_documentation"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_description": [
+        {
+            "value": "<h2>Developer Documentation&nbsp;<\/h2>\r\n\r\n<h4><strong>Analyze and understand<\/strong><\/h4>\r\n\r\n<p>Give customers useful financial breakdowns by analyzing credit card transactions. Combine with AccountInsights to get a clear picture of your customers\u2019 earning and spending habits and to give them a complete overview of their financials.<\/p>\r\n",
+            "format": "full_html",
+            "processed": "<h2>Developer Documentation\u00a0<\/h2>\n\n<h4><strong>Analyze and understand<\/strong><\/h4>\n\n<p>Give customers useful financial breakdowns by analyzing credit card transactions. Combine with AccountInsights to get a clear picture of your customers\u2019 earning and spending habits and to give them a complete overview of their financials.<\/p>\n",
+            "lang": "en"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Credit Card",
+            "lang": "en"
+        }
+    ]
+}

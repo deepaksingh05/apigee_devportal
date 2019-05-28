@@ -9,9 +9,13 @@ dependencies:
 
 default_content:
   file:
-    - 803bde5c-e504-4c3c-bcce-4efc1ef83752
+    - 84fda807-f719-49fe-a57b-df1016caa3bd
+    - b36ae5de-05bf-44e6-b4b1-95b7a1ae2095
+    - c09c141b-90c4-4a1e-bee4-b7c4907017c9
   media:
-    - 819b2747-3d43-413c-8530-5ed51fff06d5
+    - 8d6729d9-b947-4087-9cd4-2aa2b9f13012
+    - 9ffcdb46-3357-43e1-bea8-5dcc9513559f
+    - a255d2a2-e15e-48c0-8e90-d37fcf600525
   menu_link_content:
     - 3d3821fe-47ce-48d3-bfe2-dab0ef3ecae7
     - 3dbdddc5-e56b-4d52-ba56-e1e07bc9541b
@@ -34,10 +38,13 @@ default_content:
     - fb11b681-33cd-43af-99ba-6b61f91ab581
     - ff6962dc-4658-4378-b6a8-b60ed9e670ef
   node:
-    - 49b5a046-4a95-477c-83e3-bf1f1496858e
+    - 4c686147-f598-4670-961d-a1705a63f31c
+    - 948d7c5b-ab00-4f46-806a-f6207775f90d
+    - f56b08d6-13c4-4279-b8c7-010c20560b19
   taxonomy_term:
-    - 2c211245-aa88-4258-bb5e-ff8223e039c3
+    - 34d7df55-53c3-4af9-b76b-f351fb5a726e
   block_content:
     - ea9346cd-d38f-4d55-9776-51ee392a818f
   paragraph:
-    - 069dfdc2-36ab-4ee5-a0c5-78bf6b443295
+    - 85e73ee2-cadc-4a8e-8101-600c609b1eea
+    - 89ca2982-6bed-4cc4-9586-63e61075150e

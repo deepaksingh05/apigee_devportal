@@ -47,10 +47,7 @@ install:
 - views_slideshow
 - views_slideshow_cycle
 - simplenews
-- social_auth_google
-- social_auth_facebook
 - social_auth_linkedin
-- social_auth_github
 - block_class
 - media_library
 

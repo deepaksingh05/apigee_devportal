@@ -17,7 +17,7 @@
     ],
     "uuid": [
         {
-            "value": "18fd04fd-9d8b-4519-8612-4d236375e401"
+            "value": "34d7df55-53c3-4af9-b76b-f351fb5a726e"
         }
     ],
     "revision_id": [
@@ -38,7 +38,7 @@
     ],
     "revision_created": [
         {
-            "value": "2019-05-20T06:37:27+00:00",
+            "value": "2019-05-27T11:18:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -50,7 +50,7 @@
     ],
     "name": [
         {
-            "value": "Test Blog Tag",
+            "value": "Blog Tag",
             "lang": "en"
         }
     ],
@@ -66,7 +66,7 @@
     },
     "changed": [
         {
-            "value": "2019-05-20T06:37:27+00:00",
+            "value": "2019-05-27T11:18:20+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

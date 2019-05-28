@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/media\/1\/edit?_format=hal_json"
+            "href": "http:\/\/default\/media\/4\/edit?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/media\/image"
@@ -14,30 +14,30 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/media\/image\/thumbnail": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Recog%20Ovw.png",
+                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Group%20804%402x.png",
                 "lang": "en"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/media\/image\/field_media_image": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Recog%20Ovw.png",
+                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Group%20804%402x.png",
                 "lang": "en"
             }
         ]
     },
     "mid": [
         {
-            "value": 1
+            "value": 4
         }
     ],
     "uuid": [
         {
-            "value": "819b2747-3d43-413c-8530-5ed51fff06d5"
+            "value": "a255d2a2-e15e-48c0-8e90-d37fcf600525"
         }
     ],
     "vid": [
         {
-            "value": 1
+            "value": 4
         }
     ],
     "langcode": [
@@ -53,7 +53,7 @@
     ],
     "revision_created": [
         {
-            "value": "2019-05-24T07:51:13+00:00",
+            "value": "2019-05-27T11:24:21+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -76,7 +76,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "da8a4def-085b-4bb7-9814-4d40d3b8001c"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ],
                 "lang": "en"
@@ -86,7 +86,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Recog%20Ovw.png"
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Group%20804%402x.png"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -94,7 +94,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "803bde5c-e504-4c3c-bcce-4efc1ef83752"
+                        "value": "c09c141b-90c4-4a1e-bee4-b7c4907017c9"
                     }
                 ],
                 "lang": "en"
@@ -104,7 +104,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Recog%20Ovw.png"
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Group%20804%402x.png"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -112,7 +112,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "803bde5c-e504-4c3c-bcce-4efc1ef83752"
+                        "value": "c09c141b-90c4-4a1e-bee4-b7c4907017c9"
                     }
                 ],
                 "lang": "en"
@@ -121,20 +121,20 @@
     },
     "name": [
         {
-            "value": "Recog Ovw.png",
+            "value": "Group 804@2x.png",
             "lang": "en"
         }
     ],
     "created": [
         {
-            "value": "2019-05-24T07:51:06+00:00",
+            "value": "2019-05-27T11:24:15+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-24T07:51:06+00:00",
+            "value": "2019-05-27T11:24:15+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

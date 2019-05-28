@@ -22,9 +22,10 @@
                 "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_featured_image": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_media_image": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/druplicon-small.png"
+                "href": "http:\/\/default\/media\/2\/edit?_format=hal_json",
+                "lang": "en"
             }
         ]
     },
@@ -35,7 +36,7 @@
     ],
     "uuid": [
         {
-            "value": "8af2604d-e56d-497b-b8a9-66a3a85c500a"
+            "value": "4c686147-f598-4670-961d-a1705a63f31c"
         }
     ],
     "vid": [
@@ -56,7 +57,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-05-20T06:36:43+00:00",
+            "value": "2019-05-27T11:16:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -73,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d837a9e5-0186-4e50-aec1-d89fa380a013"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ]
             }
@@ -90,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d837a9e5-0186-4e50-aec1-d89fa380a013"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ],
                 "lang": "en"
@@ -108,26 +109,27 @@
                 },
                 "uuid": [
                     {
-                        "value": "18fd04fd-9d8b-4519-8612-4d236375e401"
+                        "value": "34d7df55-53c3-4af9-b76b-f351fb5a726e"
                     }
                 ]
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_featured_image": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_media_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/druplicon-small.png"
+                        "href": "http:\/\/default\/media\/2\/edit?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/image"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "0e312c02-ed9f-4c9e-a582-2760321d8610"
+                        "value": "9ffcdb46-3357-43e1-bea8-5dcc9513559f"
                     }
-                ]
+                ],
+                "lang": "en"
             }
         ]
     },
@@ -139,27 +141,27 @@
     ],
     "title": [
         {
-            "value": "Blog Test",
+            "value": "Blog",
             "lang": "en"
         }
     ],
     "created": [
         {
-            "value": "2019-05-20T06:36:22+00:00",
+            "value": "2019-05-27T11:08:47+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-20T09:46:08+00:00",
+            "value": "2019-05-27T11:18:28+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": true,
+            "value": false,
             "lang": "en"
         }
     ],
@@ -191,9 +193,9 @@
     ],
     "body": [
         {
-            "value": "<p>Yo have link to the designs ?<\/p>\r\n\r\n<p>Designs - https:\/\/xd.adobe.com\/spec\/65560da7-e22c-481a-7f73-ecc40e90e2d4-1367\/<br \/>\r\nLinked designs - https:\/\/xd.adobe.com\/view\/d212afc6-01e9-4352-5928-fccc016cc6fb-a423\/?fullscreen (edited)&nbsp;<br \/>\r\n@manisha.gupta<\/p>\r\n",
+            "value": "<p>ML code vs AWS Lambda limits<\/p>\r\n",
             "format": "full_html",
-            "processed": "<p>Yo have link to the designs ?<\/p>\n\n<p>Designs - https:\/\/xd.adobe.com\/spec\/65560da7-e22c-481a-7f73-ecc40e90e2d4-1367\/<br \/>\nLinked designs - https:\/\/xd.adobe.com\/view\/d212afc6-01e9-4352-5928-fccc016cc6fb-a423\/?fullscreen (edited)\u00a0<br \/>\n@manisha.gupta<\/p>\n",
+            "processed": "<p>ML code vs AWS Lambda limits<\/p>\n",
             "summary": "",
             "lang": "en"
         }
@@ -202,7 +204,7 @@
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 1558345568,
+            "last_comment_timestamp": 1558955908,
             "last_comment_name": null,
             "last_comment_uid": 1,
             "comment_count": 0

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/sites\/default\/files\/2019-05\/druplicon-small.png"
+            "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Mask%20Group%203%402x.png"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 2
+            "value": 5
         }
     ],
     "uuid": [
         {
-            "value": "0e312c02-ed9f-4c9e-a582-2760321d8610"
+            "value": "84fda807-f719-49fe-a57b-df1016caa3bd"
         }
     ],
     "langcode": [
@@ -40,7 +40,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d837a9e5-0186-4e50-aec1-d89fa380a013"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ]
             }
@@ -48,13 +48,13 @@
     },
     "filename": [
         {
-            "value": "druplicon-small.png"
+            "value": "Mask Group 3@2x.png"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2019-05\/druplicon-small.png",
-            "url": "\/sites\/default\/files\/2019-05\/druplicon-small.png"
+            "value": "public:\/\/2019-05\/Mask Group 3@2x.png",
+            "url": "\/sites\/default\/files\/2019-05\/Mask%20Group%203%402x.png"
         }
     ],
     "filemime": [
@@ -64,7 +64,7 @@
     ],
     "filesize": [
         {
-            "value": 12453
+            "value": 157114
         }
     ],
     "status": [
@@ -74,13 +74,13 @@
     ],
     "created": [
         {
-            "value": "2019-05-20T09:46:04+00:00",
+            "value": "2019-05-27T11:16:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-20T09:46:08+00:00",
+            "value": "2019-05-27T11:16:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

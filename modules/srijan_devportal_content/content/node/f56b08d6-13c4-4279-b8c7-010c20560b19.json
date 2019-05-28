@@ -1,46 +1,51 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/node\/1?_format=hal_json"
+            "href": "http:\/\/default\/node\/3?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/node\/blog_post"
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/product"
         },
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/revision_uid": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/revision_uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_blog_tags": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_media_image": [
             {
-                "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
+                "href": "http:\/\/default\/media\/4\/edit?_format=hal_json"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_image_media": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_product_documentation": [
             {
-                "href": "http:\/\/default\/media\/1\/edit?_format=hal_json"
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_product_overview": [
+            {
+                "href": ""
             }
         ]
     },
     "nid": [
         {
-            "value": 1
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "49b5a046-4a95-477c-83e3-bf1f1496858e"
+            "value": "f56b08d6-13c4-4279-b8c7-010c20560b19"
         }
     ],
     "vid": [
         {
-            "value": 1
+            "value": 3
         }
     ],
     "langcode": [
@@ -51,17 +56,17 @@
     ],
     "type": [
         {
-            "target_id": "blog_post"
+            "target_id": "product"
         }
     ],
     "revision_timestamp": [
         {
-            "value": "2019-05-24T07:51:16+00:00",
+            "value": "2019-05-27T11:29:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/revision_uid": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/revision_uid": [
             {
                 "_links": {
                     "self": {
@@ -73,12 +78,12 @@
                 },
                 "uuid": [
                     {
-                        "value": "da8a4def-085b-4bb7-9814-4d40d3b8001c"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ]
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/uid": [
             {
                 "_links": {
                     "self": {
@@ -90,34 +95,17 @@
                 },
                 "uuid": [
                     {
-                        "value": "da8a4def-085b-4bb7-9814-4d40d3b8001c"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_blog_tags": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_media_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/tags"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "2c211245-aa88-4258-bb5e-ff8223e039c3"
-                    }
-                ]
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/blog_post\/field_image_media": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/media\/1\/edit?_format=hal_json"
+                        "href": "http:\/\/default\/media\/4\/edit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/media\/image"
@@ -125,9 +113,45 @@
                 },
                 "uuid": [
                     {
-                        "value": "819b2747-3d43-413c-8530-5ed51fff06d5"
+                        "value": "a255d2a2-e15e-48c0-8e90-d37fcf600525"
                     }
                 ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_product_documentation": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/product_details_main"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "85e73ee2-cadc-4a8e-8101-600c609b1eea"
+                    }
+                ],
+                "target_revision_id": "2"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/product\/field_product_overview": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/product_details_main"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "89ca2982-6bed-4cc4-9586-63e61075150e"
+                    }
+                ],
+                "target_revision_id": "3"
             }
         ]
     },
@@ -139,20 +163,20 @@
     ],
     "title": [
         {
-            "value": "Blog Test",
+            "value": "Credit Cards",
             "lang": "en"
         }
     ],
     "created": [
         {
-            "value": "2019-05-24T07:50:03+00:00",
+            "value": "2019-05-27T11:08:49+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-24T07:51:58+00:00",
+            "value": "2019-05-27T11:29:06+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -191,21 +215,11 @@
     ],
     "body": [
         {
-            "value": "<p>The maximum number of media items have been selected.<\/p>\r\n",
+            "value": "<p>CreditCards lets you see up to 6 months of transaction information from all customer\u2019s credit cards. See their credit card information including masked card numbers and expiry dates.<\/p>\r\n",
             "format": "full_html",
-            "processed": "<p>The maximum number of media items have been selected.<\/p>\n",
+            "processed": "<p>CreditCards lets you see up to 6 months of transaction information from all customer\u2019s credit cards. See their credit card information including masked card numbers and expiry dates.<\/p>\n",
             "summary": "",
             "lang": "en"
-        }
-    ],
-    "field_blog_comments": [
-        {
-            "status": 2,
-            "cid": 0,
-            "last_comment_timestamp": 1558684318,
-            "last_comment_name": null,
-            "last_comment_uid": 1,
-            "comment_count": 0
         }
     ]
 }

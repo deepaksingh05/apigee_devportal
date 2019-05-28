@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/sites\/default\/files\/2019-05\/BA%20Badge%20Ovw%20Image.png"
+            "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Mask%20Group%204.png"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 3
+            "value": 6
         }
     ],
     "uuid": [
         {
-            "value": "649b4cf9-f998-448d-a1b8-39475ed61e8d"
+            "value": "b36ae5de-05bf-44e6-b4b1-95b7a1ae2095"
         }
     ],
     "langcode": [
@@ -40,7 +40,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "f9f81d4a-61f8-4e71-8639-85af0a236420"
+                        "value": "f506e6c7-7af4-4e36-8de2-2f53720785cc"
                     }
                 ]
             }
@@ -48,13 +48,13 @@
     },
     "filename": [
         {
-            "value": "BA Badge Ovw Image.png"
+            "value": "Mask Group 4.png"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2019-05\/BA Badge Ovw Image.png",
-            "url": "\/sites\/default\/files\/2019-05\/BA%20Badge%20Ovw%20Image.png"
+            "value": "public:\/\/2019-05\/Mask Group 4.png",
+            "url": "\/sites\/default\/files\/2019-05\/Mask%20Group%204.png"
         }
     ],
     "filemime": [
@@ -64,7 +64,7 @@
     ],
     "filesize": [
         {
-            "value": 11144
+            "value": 24376
         }
     ],
     "status": [
@@ -74,13 +74,13 @@
     ],
     "created": [
         {
-            "value": "2019-05-21T09:24:24+00:00",
+            "value": "2019-05-27T11:19:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-21T09:24:50+00:00",
+            "value": "2019-05-27T11:19:58+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
